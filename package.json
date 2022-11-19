@@ -1,5 +1,12 @@
 {
   "name": "@marcusoliveiras_/expo-react-native-marcus-template",
   "version": "1.0.0",
-  "private": "false"
+  "description": "A Expo React Native simply template for my apps",
+  "homepage": "https://github.com/MarcusPOliveira/expo-react-native-marcus-template",
+  "bugs": {
+    "url": "https://github.com/MarcusPOliveira/expo-react-native-marcus-template/issues",
+    "email": "mp.mp.oliveira@gmail.com"
+  },
+  "author": "Marcus Paulo Oliveira Silva <mp.mp.oliveira@gmail.com> (https://github.com/MarcusPOliveira)",
+  "license": "MIT"
 }
