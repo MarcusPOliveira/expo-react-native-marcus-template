@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "@marcusoliveiras_/expo-react-native-marcus-template",
+    "slug": "expo-react-native-marcus-template",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
