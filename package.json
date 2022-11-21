@@ -8,5 +8,6 @@
     "email": "mp.mp.oliveira@gmail.com"
   },
   "author": "Marcus Paulo Oliveira Silva <mp.mp.oliveira@gmail.com> (https://github.com/MarcusPOliveira)",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
